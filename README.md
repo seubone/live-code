@@ -20,7 +20,7 @@ Descrição:
 Crie uma função que receba uma string e conte o número de palavras.
 
 ```javascript
-countWords("SeuBoné -   empresa de bonés personalizados"); // 6
+countWords("SeuBoné -   empresa de bonés personalizados"); // 5
 ```
 
 <hr>
