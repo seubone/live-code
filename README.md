@@ -1,6 +1,6 @@
 # Escolha o seu teste
 
-- O teste poderá ser realizado no local de sua preferência
+- O teste poderá ser realizado no local de sua preferência.
 
 ## 1. Verificação de Parênteses Balanceados
 
